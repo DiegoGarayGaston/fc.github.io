@@ -14,8 +14,8 @@ body {
 }
 
 .card {
-  width: 500px;
-  height: 320px;
+  width: 580px;
+  height: 400px;
   position: relative;
   transform-style: preserve-3d;
   transition: transform 1s ease;
@@ -62,7 +62,7 @@ body {
   border: 2px solid #e0e0e0;
   border-radius: 15px;
   box-shadow: 0 10px 25px rgba(0, 0, 0, 0.15);
-  padding: 30px;
+  padding: 25px;
   box-sizing: border-box;
   text-align: center;
   transform: rotateY(180deg);
