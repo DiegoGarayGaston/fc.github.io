@@ -14,8 +14,8 @@ body {
 }
 
 .card {
-  width: 1000px;
-  height: 940px;
+  width: 50%;
+  height: 50%;
   position: relative;
   transform-style: preserve-3d;
   transition: transform 1s ease;
