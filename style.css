@@ -88,8 +88,6 @@ body {
 
   width: 200px;
   height: 200px;
-  border-radius: 15px;
-
-  object-fit: cover;
+  border-radius: 0px;
   margin: 20px 0;
 }
